@@ -117,7 +117,7 @@
 .message {
   display: flex;
   align-items: flex-start;
-  width: 50%;
+  max-width: 80%;
   margin-bottom: 20px;
 }
 
