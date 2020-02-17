@@ -12,3 +12,7 @@
   opacity: 0.6;
   margin-bottom: 12px;
 }
+
+.friends__list .friend {
+  margin-bottom: 15px;
+}
