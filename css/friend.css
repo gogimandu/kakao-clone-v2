@@ -1,0 +1,30 @@
+.friend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.friend .friend__avatar {
+  border-radius: 40%;
+  height: 50px;
+  width: 50px;
+}
+
+.friend__avatar.g-avatar {
+  height: 70px;
+  width: 70px;
+}
+
+.friend__avatar.m-avatar {
+  height: 60px;
+  width: 60px;
+}
+
+.friend__add-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f5f5;
+  padding: 10px 15px;
+  border-radius: 5%;
+}
